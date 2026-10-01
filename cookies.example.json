@@ -1,0 +1,14 @@
+[
+  {
+    "name": "atoken",
+    "value": "YOUR_ATOKEN_HERE",
+    "domain": ".sdamgia.ru",
+    "path": "/"
+  },
+  {
+    "name": "rtoken",
+    "value": "YOUR_RTOKEN_HERE",
+    "domain": ".sdamgia.ru",
+    "path": "/"
+  }
+]
